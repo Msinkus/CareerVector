@@ -1,0 +1,23 @@
+DEREK OSEI
+derek.osei@example.com
+
+SUMMARY
+Data engineer with 4 years of experience building batch pipelines and analytics
+warehouses for e-commerce companies. Strong SQL and dbt background.
+
+EXPERIENCE
+
+Data Engineer, Fernwood Analytics (2022 - present)
+- Built and maintained Airflow DAGs orchestrating daily ingestion from operational
+  Postgres into Snowflake.
+- Modeled the marts layer in dbt; wrote extensive SQL for transformation and testing.
+- Used Spark for large historical backfills and BigQuery for ad-hoc analyst queries.
+
+Junior Data Analyst, Fernwood Analytics (2020 - 2022)
+- Wrote SQL reports and dashboards; introduced basic statistics-based anomaly checks
+  for daily revenue reporting.
+- Contributed to data modeling discussions for the new orders schema.
+
+SKILLS
+SQL, Python, Airflow, dbt, Snowflake, BigQuery, Spark, Data Modeling, Data Pipeline
+Design, Statistics, Git
