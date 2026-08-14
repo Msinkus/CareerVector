@@ -9,9 +9,9 @@ Phased, incremental build plan. Check items off as completed. See `CLAUDE.md` fo
 - [x] Define SQLAlchemy 2.0 async models + first Alembic migration
 - [x] Build mock vacancy generator producing realistic Backend/Data/AI Engineering postings (`data/mock/vacancies.json`, `scripts/seed_mock_data.py`)
 - [x] Implement abstract ingestion source interface (`ingestion/sources/base.py`) + `mock_source.py` implementation
-- [ ] Implement Prefect flow: ingest → dedup → clean → validate → persist (Postgres)
+- [x] Implement Prefect flow: ingest → dedup → clean → validate → persist (Postgres)
 - [ ] Generate embeddings for vacancies and persist to Qdrant
-- [ ] Unit tests for dedup/clean/validate pipeline stages
+- [x] Unit tests for dedup/clean/validate pipeline stages
 
 ## Phase 2 — Candidate Onboarding & Parsing
 
