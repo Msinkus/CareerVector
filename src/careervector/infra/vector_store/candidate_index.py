@@ -2,21 +2,16 @@ from qdrant_client.models import PointStruct
 
 from careervector.config import get_settings
 from careervector.domain.candidates.models import Candidate
+from careervector.domain.matching.text import candidate_match_text
 from careervector.infra.embeddings.model import EmbeddingModel
 from careervector.infra.vector_store.qdrant_client import ensure_collection, upsert_points
-
-
-def _embedding_text(candidate: Candidate) -> str:
-    skill_names = ", ".join(cs.skill.name for cs in candidate.skills)
-    summary = candidate.summary or ""
-    return f"{candidate.full_name}. {summary} Skills: {skill_names}"
 
 
 async def index_candidate(candidate: Candidate, model: EmbeddingModel) -> None:
     collection = get_settings().qdrant_collection_candidates
     await ensure_collection(collection, model.dimensions)
 
-    embedding = (await model.embed([_embedding_text(candidate)]))[0]
+    embedding = (await model.embed([candidate_match_text(candidate)]))[0]
 
     point = PointStruct(
         id=str(candidate.id),
