@@ -127,6 +127,7 @@ Do not introduce Kafka, Flink, Iceberg, Temporal.io, or live web scraping into t
 This project is built iteratively across sessions, following this cadence:
 
 - **Commit as work completes, not in one dump.** Make meaningful, scoped git commits as tasks in `todo.md` are finished, not one giant commit at the end of a session.
+- **Commit messages carry no AI attribution.** No `Co-Authored-By: Claude` (or similar) trailers, and no mention of Claude/AI assistance in the commit message body.
 - **Push to GitHub regularly** so the remote stays in sync with local progress — don't let unpushed commits pile up across sessions.
 - **Before ending a session, discuss with the user first.** Summarize what was completed and propose what the next session should tackle; don't unilaterally decide the next step.
 - **Update `todo.md` to reflect that discussion** — check off finished items (`[x]`), and adjust/reorder upcoming items if the discussion changed priorities — before committing and pushing that update. Unchecked items that are partially done must say so inline (what's done, what's left) — a future session has no memory of this chat and has to work from the file alone.
