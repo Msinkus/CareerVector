@@ -12,7 +12,12 @@ from pathlib import Path
 
 from sqlalchemy import delete, select
 
-from careervector.domain.skills.models import Skill, SkillCategory, SkillImportance, SkillRequirement
+from careervector.domain.skills.models import (
+    Skill,
+    SkillCategory,
+    SkillImportance,
+    SkillRequirement,
+)
 from careervector.domain.vacancies.models import RoleType, SeniorityLevel, Vacancy
 from careervector.infra.db.models import SkillORM, VacancyORM, VacancySkillRequirementORM
 from careervector.infra.db.session import async_session_factory
@@ -72,32 +77,83 @@ SKILLS: dict[str, Skill] = {
 ROLE_SKILL_POOLS: dict[RoleType, dict[str, list[str]]] = {
     RoleType.BACKEND: {
         "must_have": [
-            "python", "typescript", "java", "go", "fastapi", "django", "spring",
-            "express", "postgresql", "mysql", "redis", "rest_apis", "microservices",
-            "system_design", "distributed_systems",
+            "python",
+            "typescript",
+            "java",
+            "go",
+            "fastapi",
+            "django",
+            "spring",
+            "express",
+            "postgresql",
+            "mysql",
+            "redis",
+            "rest_apis",
+            "microservices",
+            "system_design",
+            "distributed_systems",
         ],
         "nice_to_have": [
-            "mongodb", "aws", "gcp", "azure", "docker", "kubernetes", "terraform",
-            "git", "ci_cd", "kafka",
+            "mongodb",
+            "aws",
+            "gcp",
+            "azure",
+            "docker",
+            "kubernetes",
+            "terraform",
+            "git",
+            "ci_cd",
+            "kafka",
         ],
     },
     RoleType.DATA: {
         "must_have": [
-            "python", "sql", "postgresql", "snowflake", "bigquery", "airflow",
-            "spark", "dbt", "data_modeling", "data_pipelines", "statistics",
+            "python",
+            "sql",
+            "postgresql",
+            "snowflake",
+            "bigquery",
+            "airflow",
+            "spark",
+            "dbt",
+            "data_modeling",
+            "data_pipelines",
+            "statistics",
         ],
         "nice_to_have": [
-            "aws", "gcp", "azure", "kafka", "mongodb", "git", "distributed_systems", "prefect",
+            "aws",
+            "gcp",
+            "azure",
+            "kafka",
+            "mongodb",
+            "git",
+            "distributed_systems",
+            "prefect",
         ],
     },
     RoleType.AI_ENGINEERING: {
         "must_have": [
-            "python", "pytorch", "tensorflow", "langchain", "machine_learning",
-            "nlp", "llm_engineering", "statistics", "fastapi",
+            "python",
+            "pytorch",
+            "tensorflow",
+            "langchain",
+            "machine_learning",
+            "nlp",
+            "llm_engineering",
+            "statistics",
+            "fastapi",
         ],
         "nice_to_have": [
-            "aws", "gcp", "docker", "kubernetes", "redis", "elasticsearch",
-            "mlops", "git", "ci_cd", "postgresql",
+            "aws",
+            "gcp",
+            "docker",
+            "kubernetes",
+            "redis",
+            "elasticsearch",
+            "mlops",
+            "git",
+            "ci_cd",
+            "postgresql",
         ],
     },
 }
@@ -130,12 +186,27 @@ ROLE_LABELS: dict[RoleType, str] = {
 }
 
 COMPANIES = [
-    "Nimbus Systems", "Anchorage Labs", "Vertex Analytics", "Brightloop",
-    "Cobalt Works", "Fernwood Technologies", "Lumen Data Co.", "Northstar AI",
-    "Ridgeline Software", "Solace Cloud",
+    "Nimbus Systems",
+    "Anchorage Labs",
+    "Vertex Analytics",
+    "Brightloop",
+    "Cobalt Works",
+    "Fernwood Technologies",
+    "Lumen Data Co.",
+    "Northstar AI",
+    "Ridgeline Software",
+    "Solace Cloud",
 ]
 
-CITIES = ["Austin, TX", "New York, NY", "San Francisco, CA", "Seattle, WA", "Chicago, IL", "Denver, CO", "Boston, MA"]
+CITIES = [
+    "Austin, TX",
+    "New York, NY",
+    "San Francisco, CA",
+    "Seattle, WA",
+    "Chicago, IL",
+    "Denver, CO",
+    "Boston, MA",
+]
 
 MIN_YEARS_BY_SENIORITY: dict[SeniorityLevel, list[int]] = {
     SeniorityLevel.JUNIOR: [0, 1],
@@ -153,13 +224,19 @@ REQUIREMENT_COUNTS: dict[SeniorityLevel, tuple[int, int]] = {
 
 
 def _build_description(
-    role_type: RoleType, seniority: SeniorityLevel, company: str, must_ids: list[str], nice_ids: list[str]
+    role_type: RoleType,
+    seniority: SeniorityLevel,
+    company: str,
+    must_ids: list[str],
+    nice_ids: list[str],
 ) -> str:
     must_names = ", ".join(SKILLS[s].name for s in must_ids)
     nice_names = ", ".join(SKILLS[s].name for s in nice_ids)
     parts = [
-        f"{company} is hiring a {seniority.value}-level {ROLE_LABELS[role_type]} professional to join our platform team.",
-        "You will design, build, and operate production systems, working closely with cross-functional stakeholders.",
+        f"{company} is hiring a {seniority.value}-level {ROLE_LABELS[role_type]} "
+        "professional to join our platform team.",
+        "You will design, build, and operate production systems, working closely "
+        "with cross-functional stakeholders.",
         f"Required: {must_names}.",
     ]
     if nice_names:
@@ -185,7 +262,9 @@ def generate_vacancies() -> list[Vacancy]:
 
                 skill_requirements = [
                     SkillRequirement(
-                        skill=SKILLS[sid], importance=SkillImportance.MUST_HAVE, min_years_experience=min_years
+                        skill=SKILLS[sid],
+                        importance=SkillImportance.MUST_HAVE,
+                        min_years_experience=min_years,
                     )
                     for sid in must_ids
                 ] + [
@@ -202,7 +281,9 @@ def generate_vacancies() -> list[Vacancy]:
                     company=company,
                     role_type=role_type,
                     seniority=seniority,
-                    description=_build_description(role_type, seniority, company, must_ids, nice_ids),
+                    description=_build_description(
+                        role_type, seniority, company, must_ids, nice_ids
+                    ),
                     skill_requirements=skill_requirements,
                     location=location,
                     remote=remote,

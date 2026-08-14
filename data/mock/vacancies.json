@@ -1,6 +1,6 @@
 [
   {
-    "id": "cfb5d007-8906-4abb-ac48-2b4de6628bf3",
+    "id": "37f27166-b53a-4812-bb02-7d9710b94e7e",
     "title": "Junior Backend Engineer",
     "company": "Anchorage Labs",
     "role_type": "backend",
@@ -57,11 +57,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/1",
-    "posted_at": "2026-08-13T18:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.189998Z"
+    "posted_at": "2026-08-13T18:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498591Z"
   },
   {
-    "id": "94104ad0-dcec-461d-97c0-2e534d4ef0be",
+    "id": "966b2f7c-2e0b-41d9-ae12-c200e68e1e1b",
     "title": "Junior Backend Engineer",
     "company": "Nimbus Systems",
     "role_type": "backend",
@@ -118,11 +118,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/2",
-    "posted_at": "2026-07-11T07:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190024Z"
+    "posted_at": "2026-07-11T07:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498616Z"
   },
   {
-    "id": "52e51157-0852-447c-b483-64aad9db176d",
+    "id": "5e062b11-ba4d-4ae4-ab22-df7628c270a1",
     "title": "Associate Backend Developer",
     "company": "Cobalt Works",
     "role_type": "backend",
@@ -179,11 +179,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/3",
-    "posted_at": "2026-08-05T14:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190044Z"
+    "posted_at": "2026-08-05T14:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498640Z"
   },
   {
-    "id": "5e212018-2af5-4f0b-afa0-fbba17f3d04d",
+    "id": "6179dd5b-d386-4637-802c-664474bf9ba0",
     "title": "Backend Software Engineer",
     "company": "Anchorage Labs",
     "role_type": "backend",
@@ -249,11 +249,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/4",
-    "posted_at": "2026-08-09T03:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190064Z"
+    "posted_at": "2026-08-09T03:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498660Z"
   },
   {
-    "id": "0e933072-26ce-4f92-969e-f9f45fb8bae3",
+    "id": "8908744d-309a-447b-94ff-a261995ed9a4",
     "title": "Backend Engineer",
     "company": "Solace Cloud",
     "role_type": "backend",
@@ -319,11 +319,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/5",
-    "posted_at": "2026-07-31T11:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190080Z"
+    "posted_at": "2026-07-31T11:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498677Z"
   },
   {
-    "id": "a4f27ec7-226a-483c-ac2b-e5efaebe6855",
+    "id": "b5490a3d-a6ec-42e0-abbe-7d5f92bd0f6f",
     "title": "Backend Software Engineer",
     "company": "Lumen Data Co.",
     "role_type": "backend",
@@ -389,11 +389,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/6",
-    "posted_at": "2026-07-23T14:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190095Z"
+    "posted_at": "2026-07-23T14:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498692Z"
   },
   {
-    "id": "38a2e6e2-dd65-4bfa-97d8-63fefecf766f",
+    "id": "f4a55016-9b82-48a3-bd70-b76bce244c8a",
     "title": "Senior Software Engineer, Backend",
     "company": "Anchorage Labs",
     "role_type": "backend",
@@ -477,11 +477,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/7",
-    "posted_at": "2026-08-12T10:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190115Z"
+    "posted_at": "2026-08-12T10:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498711Z"
   },
   {
-    "id": "e395bc21-0818-4022-8a87-d7d4e696bad7",
+    "id": "d3101ca7-5312-4a3c-b07e-f8eefdba4cc0",
     "title": "Senior Software Engineer, Backend",
     "company": "Vertex Analytics",
     "role_type": "backend",
@@ -565,11 +565,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/8",
-    "posted_at": "2026-08-06T13:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190186Z"
+    "posted_at": "2026-08-06T13:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498781Z"
   },
   {
-    "id": "e2bedb36-fb9b-4390-8bea-bdc82e5fc5c0",
+    "id": "10304e29-f729-442b-a89d-c8d5abf30fd9",
     "title": "Senior Backend Engineer",
     "company": "Brightloop",
     "role_type": "backend",
@@ -653,11 +653,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/9",
-    "posted_at": "2026-08-11T17:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190204Z"
+    "posted_at": "2026-08-11T17:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498798Z"
   },
   {
-    "id": "35cb14ee-c21f-4252-b264-b1a5748133da",
+    "id": "781ec293-045a-4513-ac87-1a419810d24e",
     "title": "Principal Backend Engineer",
     "company": "Vertex Analytics",
     "role_type": "backend",
@@ -750,11 +750,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/10",
-    "posted_at": "2026-07-28T00:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190227Z"
+    "posted_at": "2026-07-28T00:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498821Z"
   },
   {
-    "id": "ddfb2dfb-0a79-4a06-8cbd-99af5c8c621e",
+    "id": "bed9c757-d208-4b1b-b244-593f58a3cb46",
     "title": "Staff Backend Engineer",
     "company": "Lumen Data Co.",
     "role_type": "backend",
@@ -847,11 +847,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/11",
-    "posted_at": "2026-07-05T11:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190246Z"
+    "posted_at": "2026-07-05T11:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498843Z"
   },
   {
-    "id": "ef2065f4-73e0-480a-846f-050f8d11ed1a",
+    "id": "9ccaec71-ff60-421d-b8a0-a1e0f3054dcd",
     "title": "Staff Backend Engineer",
     "company": "Anchorage Labs",
     "role_type": "backend",
@@ -944,11 +944,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/12",
-    "posted_at": "2026-07-22T11:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190265Z"
+    "posted_at": "2026-07-22T11:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498862Z"
   },
   {
-    "id": "75881064-63f4-4870-a46c-4373675a0539",
+    "id": "f8ebd2a4-e4b9-4e4f-a9f4-055dda5502dc",
     "title": "Associate Data Engineer",
     "company": "Nimbus Systems",
     "role_type": "data",
@@ -1005,11 +1005,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/13",
-    "posted_at": "2026-07-29T04:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190281Z"
+    "posted_at": "2026-07-29T04:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498877Z"
   },
   {
-    "id": "89e64c78-f43b-4a80-9a42-95dbec08b033",
+    "id": "787f0c38-242d-4501-aa7f-373f5ffe06d7",
     "title": "Junior Data Engineer",
     "company": "Brightloop",
     "role_type": "data",
@@ -1066,11 +1066,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/14",
-    "posted_at": "2026-07-17T17:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190295Z"
+    "posted_at": "2026-07-17T17:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498890Z"
   },
   {
-    "id": "a2300fd0-9e07-490c-9319-27e371e73fec",
+    "id": "93bcc1cd-593d-46df-93fc-adaac457af55",
     "title": "Junior Data Engineer",
     "company": "Anchorage Labs",
     "role_type": "data",
@@ -1127,11 +1127,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/15",
-    "posted_at": "2026-08-09T22:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190308Z"
+    "posted_at": "2026-08-09T22:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498903Z"
   },
   {
-    "id": "f63f4d53-ccb6-4552-8ce4-8a5acba1203f",
+    "id": "9dc21778-8289-45b1-90a4-be2095611aef",
     "title": "Data Platform Engineer",
     "company": "Brightloop",
     "role_type": "data",
@@ -1197,11 +1197,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/16",
-    "posted_at": "2026-08-05T21:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190322Z"
+    "posted_at": "2026-08-05T21:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498917Z"
   },
   {
-    "id": "035e990c-b94d-48b6-8297-9c3f6130a18d",
+    "id": "7178b327-3e68-4a40-aae1-2df18b3a2804",
     "title": "Data Engineer",
     "company": "Anchorage Labs",
     "role_type": "data",
@@ -1267,11 +1267,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/17",
-    "posted_at": "2026-07-19T06:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190337Z"
+    "posted_at": "2026-07-19T06:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498932Z"
   },
   {
-    "id": "d0a256ea-a088-4e77-ae9c-295021ede485",
+    "id": "e20dfda0-0ab8-4295-880c-eaffb74ccb53",
     "title": "Data Platform Engineer",
     "company": "Nimbus Systems",
     "role_type": "data",
@@ -1337,11 +1337,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/18",
-    "posted_at": "2026-08-02T03:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190351Z"
+    "posted_at": "2026-08-02T03:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498946Z"
   },
   {
-    "id": "3e97bef1-9bfb-41fe-809d-ba93281d8686",
+    "id": "40fa2fa6-9ed4-4125-ae84-3eca654617b2",
     "title": "Senior Data Platform Engineer",
     "company": "Vertex Analytics",
     "role_type": "data",
@@ -1425,11 +1425,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/19",
-    "posted_at": "2026-07-30T15:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190368Z"
+    "posted_at": "2026-07-30T15:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498962Z"
   },
   {
-    "id": "52b24533-33a4-4917-9c0e-ab6b7927a875",
+    "id": "277bcdd5-b22d-4b7a-b078-673302efa999",
     "title": "Senior Data Platform Engineer",
     "company": "Lumen Data Co.",
     "role_type": "data",
@@ -1513,11 +1513,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/20",
-    "posted_at": "2026-07-16T11:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190384Z"
+    "posted_at": "2026-07-16T11:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498978Z"
   },
   {
-    "id": "c71dfc32-7fab-4508-b284-8d1890eac4dd",
+    "id": "d46a5e9c-f70e-41fb-9b12-85d4503927e0",
     "title": "Senior Data Engineer",
     "company": "Solace Cloud",
     "role_type": "data",
@@ -1601,11 +1601,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/21",
-    "posted_at": "2026-07-25T19:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190401Z"
+    "posted_at": "2026-07-25T19:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.498994Z"
   },
   {
-    "id": "d27cdcee-dac3-4718-881a-960f35662449",
+    "id": "edfba654-5a58-4c08-983e-b97d4156adf3",
     "title": "Staff Data Engineer",
     "company": "Solace Cloud",
     "role_type": "data",
@@ -1698,11 +1698,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/22",
-    "posted_at": "2026-07-09T13:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190419Z"
+    "posted_at": "2026-07-09T13:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499012Z"
   },
   {
-    "id": "4a344092-cff9-4e22-a1c0-caaaf07ed128",
+    "id": "8d579a1a-745e-4481-ae8f-8cedad5de4df",
     "title": "Principal Data Engineer",
     "company": "Northstar AI",
     "role_type": "data",
@@ -1795,11 +1795,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/23",
-    "posted_at": "2026-07-04T11:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190436Z"
+    "posted_at": "2026-07-04T11:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499028Z"
   },
   {
-    "id": "0730be0e-0a14-4a9d-9fcd-0f94a27e2d38",
+    "id": "4a660ea9-4608-459e-b5b9-e607cd12c9ff",
     "title": "Staff Data Engineer",
     "company": "Vertex Analytics",
     "role_type": "data",
@@ -1892,11 +1892,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/24",
-    "posted_at": "2026-07-23T18:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190453Z"
+    "posted_at": "2026-07-23T18:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499045Z"
   },
   {
-    "id": "6733fe50-21e4-4fe1-b281-fc11332ad6cd",
+    "id": "fbd85ffc-316a-4225-a923-1a008700a162",
     "title": "Junior AI Engineer",
     "company": "Fernwood Technologies",
     "role_type": "ai_engineering",
@@ -1953,11 +1953,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/25",
-    "posted_at": "2026-08-06T12:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190480Z"
+    "posted_at": "2026-08-06T12:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499061Z"
   },
   {
-    "id": "c5b43bd4-83c5-47f7-a404-3bdc15534814",
+    "id": "083b13bc-61b8-48de-aef7-2b96b456a163",
     "title": "Associate Machine Learning Engineer",
     "company": "Cobalt Works",
     "role_type": "ai_engineering",
@@ -2014,11 +2014,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/26",
-    "posted_at": "2026-07-05T12:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190494Z"
+    "posted_at": "2026-07-05T12:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499074Z"
   },
   {
-    "id": "1457e8c1-78b5-4380-bf63-a15fd785d2f3",
+    "id": "007d96ad-d0ff-4681-b6da-4429e7fff308",
     "title": "Associate Machine Learning Engineer",
     "company": "Vertex Analytics",
     "role_type": "ai_engineering",
@@ -2075,11 +2075,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/27",
-    "posted_at": "2026-08-06T00:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190507Z"
+    "posted_at": "2026-08-06T00:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499088Z"
   },
   {
-    "id": "c0b38a24-a639-432f-b5a8-94ee7a1cd35f",
+    "id": "1c9f0a18-f89a-4ac4-97b0-828cb3dfc587",
     "title": "Machine Learning Engineer",
     "company": "Vertex Analytics",
     "role_type": "ai_engineering",
@@ -2145,11 +2145,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/28",
-    "posted_at": "2026-07-10T16:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190522Z"
+    "posted_at": "2026-07-10T16:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499104Z"
   },
   {
-    "id": "41c73568-df36-4093-a14e-cba4dd2d1efd",
+    "id": "2e2a9951-8c43-4d98-9a5b-9ac862f1cdb2",
     "title": "Machine Learning Engineer",
     "company": "Northstar AI",
     "role_type": "ai_engineering",
@@ -2215,11 +2215,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/29",
-    "posted_at": "2026-08-08T09:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190537Z"
+    "posted_at": "2026-08-08T09:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499119Z"
   },
   {
-    "id": "b227ca05-be70-4fa3-8e43-fa1d65b26bc5",
+    "id": "ec30c9d5-1ebb-42a7-a2c5-39012dbcf0b9",
     "title": "AI Engineer",
     "company": "Lumen Data Co.",
     "role_type": "ai_engineering",
@@ -2285,11 +2285,11 @@
     "remote": true,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/30",
-    "posted_at": "2026-07-24T07:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190552Z"
+    "posted_at": "2026-07-24T07:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499134Z"
   },
   {
-    "id": "50982ebd-adc7-4433-8133-2ff0f42a26f9",
+    "id": "fec55e39-050d-48bf-974f-0ade82b62aa8",
     "title": "Senior AI Engineer",
     "company": "Cobalt Works",
     "role_type": "ai_engineering",
@@ -2373,11 +2373,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/31",
-    "posted_at": "2026-07-31T13:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190569Z"
+    "posted_at": "2026-07-31T13:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499151Z"
   },
   {
-    "id": "eb1d45bf-98b2-4ca9-a5b0-2361689bd6da",
+    "id": "b2d11270-52c2-47b3-97bb-aa78e06d2ed4",
     "title": "Senior AI Engineer",
     "company": "Vertex Analytics",
     "role_type": "ai_engineering",
@@ -2461,11 +2461,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/32",
-    "posted_at": "2026-07-24T20:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190589Z"
+    "posted_at": "2026-07-24T20:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499196Z"
   },
   {
-    "id": "cf6db142-9aca-4db5-a071-ecf6720a53ac",
+    "id": "34b092db-953b-461a-a080-afc976595a20",
     "title": "Senior AI Engineer",
     "company": "Anchorage Labs",
     "role_type": "ai_engineering",
@@ -2549,11 +2549,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/33",
-    "posted_at": "2026-07-07T04:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190606Z"
+    "posted_at": "2026-07-07T04:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499213Z"
   },
   {
-    "id": "43969c92-7998-4563-8b36-bde24a07764b",
+    "id": "75d6f8ba-7e1b-463e-a3c2-58fadd6fe1ca",
     "title": "Staff AI Engineer",
     "company": "Lumen Data Co.",
     "role_type": "ai_engineering",
@@ -2646,11 +2646,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/34",
-    "posted_at": "2026-07-24T23:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190651Z"
+    "posted_at": "2026-07-24T23:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499257Z"
   },
   {
-    "id": "dd4167cc-3def-4fe5-bcf6-f2495293efcb",
+    "id": "ab5a8b0f-64e5-4d47-9ca0-24e3532b0e18",
     "title": "Staff AI Engineer",
     "company": "Brightloop",
     "role_type": "ai_engineering",
@@ -2743,11 +2743,11 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/35",
-    "posted_at": "2026-07-01T21:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190668Z"
+    "posted_at": "2026-07-01T21:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499273Z"
   },
   {
-    "id": "629a0058-f768-4571-9348-8d45c617abe5",
+    "id": "0e3cc314-e3e2-4207-97d2-d885eb55c56a",
     "title": "Principal Machine Learning Engineer",
     "company": "Cobalt Works",
     "role_type": "ai_engineering",
@@ -2840,7 +2840,7 @@
     "remote": false,
     "source": "mock",
     "source_url": "https://careervector.local/mock-postings/36",
-    "posted_at": "2026-08-01T04:16:06.189923Z",
-    "ingested_at": "2026-08-14T20:16:06.190685Z"
+    "posted_at": "2026-08-01T04:22:18.498524Z",
+    "ingested_at": "2026-08-14T20:22:18.499290Z"
   }
 ]
