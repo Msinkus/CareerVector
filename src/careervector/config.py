@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     app_debug: bool = True
     api_v1_prefix: str = "/api/v1"
 
-    database_url: str = "postgresql+asyncpg://careervector:careervector@localhost:5432/careervector"
+    database_url: str = "postgresql+asyncpg://careervector:careervector@localhost:5433/careervector"
 
     qdrant_host: str = "localhost"
     qdrant_port: int = 6333

@@ -7,7 +7,7 @@ Phased, incremental build plan. Check items off as completed. See `CLAUDE.md` fo
 - [x] Scaffold repo: `pyproject.toml` (uv), `docker-compose.yml` (Postgres, Qdrant, Redis, API), `Dockerfile`, `.env.example`
 - [x] Define Pydantic schemas for Vacancy, Candidate, Skill (standardized across Backend/Data/AI role types)
 - [x] Define SQLAlchemy 2.0 async models + first Alembic migration
-- [ ] Build mock vacancy generator producing realistic Backend/Data/AI Engineering postings (`data/mock/vacancies.json`, `scripts/seed_mock_data.py`)
+- [x] Build mock vacancy generator producing realistic Backend/Data/AI Engineering postings (`data/mock/vacancies.json`, `scripts/seed_mock_data.py`)
 - [ ] Implement abstract ingestion source interface (`ingestion/sources/base.py`) + `mock_source.py` implementation
 - [ ] Implement Prefect flow: ingest → dedup → clean → validate → persist (Postgres)
 - [ ] Generate embeddings for vacancies and persist to Qdrant

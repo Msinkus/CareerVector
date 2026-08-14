@@ -1,0 +1,2846 @@
+[
+  {
+    "id": "cfb5d007-8906-4abb-ac48-2b4de6628bf3",
+    "title": "Junior Backend Engineer",
+    "company": "Anchorage Labs",
+    "role_type": "backend",
+    "seniority": "junior",
+    "description": "Anchorage Labs is hiring a junior-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Go, Distributed Systems, Java. Nice to have: AWS, CI/CD.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "go",
+          "name": "Go",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "distributed_systems",
+          "name": "Distributed Systems",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "java",
+          "name": "Java",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "aws",
+          "name": "AWS",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "ci_cd",
+          "name": "CI/CD",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Austin, TX",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/1",
+    "posted_at": "2026-08-13T18:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.189998Z"
+  },
+  {
+    "id": "94104ad0-dcec-461d-97c0-2e534d4ef0be",
+    "title": "Junior Backend Engineer",
+    "company": "Nimbus Systems",
+    "role_type": "backend",
+    "seniority": "junior",
+    "description": "Nimbus Systems is hiring a junior-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Go, PostgreSQL, MySQL. Nice to have: MongoDB, CI/CD.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "go",
+          "name": "Go",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "postgresql",
+          "name": "PostgreSQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "mysql",
+          "name": "MySQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "mongodb",
+          "name": "MongoDB",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "ci_cd",
+          "name": "CI/CD",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Denver, CO",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/2",
+    "posted_at": "2026-07-11T07:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190024Z"
+  },
+  {
+    "id": "52e51157-0852-447c-b483-64aad9db176d",
+    "title": "Associate Backend Developer",
+    "company": "Cobalt Works",
+    "role_type": "backend",
+    "seniority": "junior",
+    "description": "Cobalt Works is hiring a junior-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Express, MySQL, FastAPI. Nice to have: MongoDB, Google Cloud Platform.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "express",
+          "name": "Express",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "mysql",
+          "name": "MySQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "mongodb",
+          "name": "MongoDB",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/3",
+    "posted_at": "2026-08-05T14:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190044Z"
+  },
+  {
+    "id": "5e212018-2af5-4f0b-afa0-fbba17f3d04d",
+    "title": "Backend Software Engineer",
+    "company": "Anchorage Labs",
+    "role_type": "backend",
+    "seniority": "mid",
+    "description": "Anchorage Labs is hiring a mid-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: TypeScript, Django, System Design, MySQL. Nice to have: Docker, MongoDB.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "typescript",
+          "name": "TypeScript",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "django",
+          "name": "Django",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "system_design",
+          "name": "System Design",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "mysql",
+          "name": "MySQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "docker",
+          "name": "Docker",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "mongodb",
+          "name": "MongoDB",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Seattle, WA",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/4",
+    "posted_at": "2026-08-09T03:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190064Z"
+  },
+  {
+    "id": "0e933072-26ce-4f92-969e-f9f45fb8bae3",
+    "title": "Backend Engineer",
+    "company": "Solace Cloud",
+    "role_type": "backend",
+    "seniority": "mid",
+    "description": "Solace Cloud is hiring a mid-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: System Design, Redis, MySQL, Django. Nice to have: Kafka, Azure.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "system_design",
+          "name": "System Design",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "redis",
+          "name": "Redis",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "mysql",
+          "name": "MySQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "django",
+          "name": "Django",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "kafka",
+          "name": "Kafka",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "azure",
+          "name": "Azure",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/5",
+    "posted_at": "2026-07-31T11:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190080Z"
+  },
+  {
+    "id": "a4f27ec7-226a-483c-ac2b-e5efaebe6855",
+    "title": "Backend Software Engineer",
+    "company": "Lumen Data Co.",
+    "role_type": "backend",
+    "seniority": "mid",
+    "description": "Lumen Data Co. is hiring a mid-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: System Design, Go, TypeScript, Spring. Nice to have: Docker, Git.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "system_design",
+          "name": "System Design",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "go",
+          "name": "Go",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "typescript",
+          "name": "TypeScript",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "spring",
+          "name": "Spring",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "docker",
+          "name": "Docker",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "git",
+          "name": "Git",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/6",
+    "posted_at": "2026-07-23T14:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190095Z"
+  },
+  {
+    "id": "38a2e6e2-dd65-4bfa-97d8-63fefecf766f",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Anchorage Labs",
+    "role_type": "backend",
+    "seniority": "senior",
+    "description": "Anchorage Labs is hiring a senior-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Java, Express, Spring, FastAPI, Redis. Nice to have: CI/CD, Azure, Kubernetes.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "java",
+          "name": "Java",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 4
+      },
+      {
+        "skill": {
+          "id": "express",
+          "name": "Express",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 4
+      },
+      {
+        "skill": {
+          "id": "spring",
+          "name": "Spring",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 4
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 4
+      },
+      {
+        "skill": {
+          "id": "redis",
+          "name": "Redis",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 4
+      },
+      {
+        "skill": {
+          "id": "ci_cd",
+          "name": "CI/CD",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "azure",
+          "name": "Azure",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "kubernetes",
+          "name": "Kubernetes",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/7",
+    "posted_at": "2026-08-12T10:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190115Z"
+  },
+  {
+    "id": "e395bc21-0818-4022-8a87-d7d4e696bad7",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Vertex Analytics",
+    "role_type": "backend",
+    "seniority": "senior",
+    "description": "Vertex Analytics is hiring a senior-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: FastAPI, TypeScript, Go, MySQL, Django. Nice to have: Azure, Git, Terraform.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "typescript",
+          "name": "TypeScript",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "go",
+          "name": "Go",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "mysql",
+          "name": "MySQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "django",
+          "name": "Django",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "azure",
+          "name": "Azure",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "git",
+          "name": "Git",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "terraform",
+          "name": "Terraform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "San Francisco, CA",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/8",
+    "posted_at": "2026-08-06T13:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190186Z"
+  },
+  {
+    "id": "e2bedb36-fb9b-4390-8bea-bdc82e5fc5c0",
+    "title": "Senior Backend Engineer",
+    "company": "Brightloop",
+    "role_type": "backend",
+    "seniority": "senior",
+    "description": "Brightloop is hiring a senior-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: REST API Design, MySQL, Spring, System Design, Microservices. Nice to have: Kubernetes, Azure, Google Cloud Platform.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "rest_apis",
+          "name": "REST API Design",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "mysql",
+          "name": "MySQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "spring",
+          "name": "Spring",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "system_design",
+          "name": "System Design",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "microservices",
+          "name": "Microservices",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "kubernetes",
+          "name": "Kubernetes",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "azure",
+          "name": "Azure",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Boston, MA",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/9",
+    "posted_at": "2026-08-11T17:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190204Z"
+  },
+  {
+    "id": "35cb14ee-c21f-4252-b264-b1a5748133da",
+    "title": "Principal Backend Engineer",
+    "company": "Vertex Analytics",
+    "role_type": "backend",
+    "seniority": "staff",
+    "description": "Vertex Analytics is hiring a staff-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Spring, Distributed Systems, MySQL, Express, PostgreSQL, FastAPI. Nice to have: CI/CD, MongoDB, AWS.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "spring",
+          "name": "Spring",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "distributed_systems",
+          "name": "Distributed Systems",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "mysql",
+          "name": "MySQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "express",
+          "name": "Express",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "postgresql",
+          "name": "PostgreSQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "ci_cd",
+          "name": "CI/CD",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "mongodb",
+          "name": "MongoDB",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "aws",
+          "name": "AWS",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Boston, MA",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/10",
+    "posted_at": "2026-07-28T00:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190227Z"
+  },
+  {
+    "id": "ddfb2dfb-0a79-4a06-8cbd-99af5c8c621e",
+    "title": "Staff Backend Engineer",
+    "company": "Lumen Data Co.",
+    "role_type": "backend",
+    "seniority": "staff",
+    "description": "Lumen Data Co. is hiring a staff-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: TypeScript, FastAPI, Spring, Java, Express, Python. Nice to have: Docker, CI/CD, Google Cloud Platform.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "typescript",
+          "name": "TypeScript",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "spring",
+          "name": "Spring",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "java",
+          "name": "Java",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "express",
+          "name": "Express",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "docker",
+          "name": "Docker",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "ci_cd",
+          "name": "CI/CD",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Boston, MA",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/11",
+    "posted_at": "2026-07-05T11:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190246Z"
+  },
+  {
+    "id": "ef2065f4-73e0-480a-846f-050f8d11ed1a",
+    "title": "Staff Backend Engineer",
+    "company": "Anchorage Labs",
+    "role_type": "backend",
+    "seniority": "staff",
+    "description": "Anchorage Labs is hiring a staff-level backend engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Java, Django, Microservices, Distributed Systems, PostgreSQL, Redis. Nice to have: MongoDB, Kubernetes, Git.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "java",
+          "name": "Java",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "django",
+          "name": "Django",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "microservices",
+          "name": "Microservices",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "distributed_systems",
+          "name": "Distributed Systems",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "postgresql",
+          "name": "PostgreSQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "redis",
+          "name": "Redis",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "mongodb",
+          "name": "MongoDB",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "kubernetes",
+          "name": "Kubernetes",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "git",
+          "name": "Git",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/12",
+    "posted_at": "2026-07-22T11:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190265Z"
+  },
+  {
+    "id": "75881064-63f4-4870-a46c-4373675a0539",
+    "title": "Associate Data Engineer",
+    "company": "Nimbus Systems",
+    "role_type": "data",
+    "seniority": "junior",
+    "description": "Nimbus Systems is hiring a junior-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: SQL, dbt, Statistics. Nice to have: Azure, Google Cloud Platform.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "sql",
+          "name": "SQL",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "dbt",
+          "name": "dbt",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "azure",
+          "name": "Azure",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "New York, NY",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/13",
+    "posted_at": "2026-07-29T04:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190281Z"
+  },
+  {
+    "id": "89e64c78-f43b-4a80-9a42-95dbec08b033",
+    "title": "Junior Data Engineer",
+    "company": "Brightloop",
+    "role_type": "data",
+    "seniority": "junior",
+    "description": "Brightloop is hiring a junior-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Snowflake, Data Modeling, Statistics. Nice to have: MongoDB, Kafka.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "snowflake",
+          "name": "Snowflake",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "data_modeling",
+          "name": "Data Modeling",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "mongodb",
+          "name": "MongoDB",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "kafka",
+          "name": "Kafka",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Chicago, IL",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/14",
+    "posted_at": "2026-07-17T17:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190295Z"
+  },
+  {
+    "id": "a2300fd0-9e07-490c-9319-27e371e73fec",
+    "title": "Junior Data Engineer",
+    "company": "Anchorage Labs",
+    "role_type": "data",
+    "seniority": "junior",
+    "description": "Anchorage Labs is hiring a junior-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Snowflake, SQL, Airflow. Nice to have: AWS, MongoDB.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "snowflake",
+          "name": "Snowflake",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "sql",
+          "name": "SQL",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "airflow",
+          "name": "Airflow",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "aws",
+          "name": "AWS",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "mongodb",
+          "name": "MongoDB",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Austin, TX",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/15",
+    "posted_at": "2026-08-09T22:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190308Z"
+  },
+  {
+    "id": "f63f4d53-ccb6-4552-8ce4-8a5acba1203f",
+    "title": "Data Platform Engineer",
+    "company": "Brightloop",
+    "role_type": "data",
+    "seniority": "mid",
+    "description": "Brightloop is hiring a mid-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Airflow, SQL, Data Modeling, Snowflake. Nice to have: MongoDB, Git.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "airflow",
+          "name": "Airflow",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "sql",
+          "name": "SQL",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "data_modeling",
+          "name": "Data Modeling",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "snowflake",
+          "name": "Snowflake",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "mongodb",
+          "name": "MongoDB",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "git",
+          "name": "Git",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/16",
+    "posted_at": "2026-08-05T21:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190322Z"
+  },
+  {
+    "id": "035e990c-b94d-48b6-8297-9c3f6130a18d",
+    "title": "Data Engineer",
+    "company": "Anchorage Labs",
+    "role_type": "data",
+    "seniority": "mid",
+    "description": "Anchorage Labs is hiring a mid-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Snowflake, dbt, Spark, Statistics. Nice to have: Google Cloud Platform, AWS.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "snowflake",
+          "name": "Snowflake",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "dbt",
+          "name": "dbt",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "spark",
+          "name": "Spark",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 3
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "aws",
+          "name": "AWS",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/17",
+    "posted_at": "2026-07-19T06:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190337Z"
+  },
+  {
+    "id": "d0a256ea-a088-4e77-ae9c-295021ede485",
+    "title": "Data Platform Engineer",
+    "company": "Nimbus Systems",
+    "role_type": "data",
+    "seniority": "mid",
+    "description": "Nimbus Systems is hiring a mid-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Statistics, SQL, Python, Spark. Nice to have: Git, Distributed Systems.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "sql",
+          "name": "SQL",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "spark",
+          "name": "Spark",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "git",
+          "name": "Git",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "distributed_systems",
+          "name": "Distributed Systems",
+          "category": "concept"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/18",
+    "posted_at": "2026-08-02T03:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190351Z"
+  },
+  {
+    "id": "3e97bef1-9bfb-41fe-809d-ba93281d8686",
+    "title": "Senior Data Platform Engineer",
+    "company": "Vertex Analytics",
+    "role_type": "data",
+    "seniority": "senior",
+    "description": "Vertex Analytics is hiring a senior-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: BigQuery, dbt, Snowflake, SQL, Data Modeling. Nice to have: Google Cloud Platform, AWS, Git.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "bigquery",
+          "name": "BigQuery",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "dbt",
+          "name": "dbt",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "snowflake",
+          "name": "Snowflake",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "sql",
+          "name": "SQL",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "data_modeling",
+          "name": "Data Modeling",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "aws",
+          "name": "AWS",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "git",
+          "name": "Git",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Austin, TX",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/19",
+    "posted_at": "2026-07-30T15:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190368Z"
+  },
+  {
+    "id": "52b24533-33a4-4917-9c0e-ab6b7927a875",
+    "title": "Senior Data Platform Engineer",
+    "company": "Lumen Data Co.",
+    "role_type": "data",
+    "seniority": "senior",
+    "description": "Lumen Data Co. is hiring a senior-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: dbt, Statistics, Snowflake, Spark, Python. Nice to have: Azure, Kafka, AWS.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "dbt",
+          "name": "dbt",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 5
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 5
+      },
+      {
+        "skill": {
+          "id": "snowflake",
+          "name": "Snowflake",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 5
+      },
+      {
+        "skill": {
+          "id": "spark",
+          "name": "Spark",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 5
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 5
+      },
+      {
+        "skill": {
+          "id": "azure",
+          "name": "Azure",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "kafka",
+          "name": "Kafka",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "aws",
+          "name": "AWS",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/20",
+    "posted_at": "2026-07-16T11:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190384Z"
+  },
+  {
+    "id": "c71dfc32-7fab-4508-b284-8d1890eac4dd",
+    "title": "Senior Data Engineer",
+    "company": "Solace Cloud",
+    "role_type": "data",
+    "seniority": "senior",
+    "description": "Solace Cloud is hiring a senior-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Data Modeling, dbt, PostgreSQL, Snowflake, Statistics. Nice to have: Kafka, AWS, MongoDB.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "data_modeling",
+          "name": "Data Modeling",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "dbt",
+          "name": "dbt",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "postgresql",
+          "name": "PostgreSQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "snowflake",
+          "name": "Snowflake",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "kafka",
+          "name": "Kafka",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "aws",
+          "name": "AWS",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "mongodb",
+          "name": "MongoDB",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Denver, CO",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/21",
+    "posted_at": "2026-07-25T19:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190401Z"
+  },
+  {
+    "id": "d27cdcee-dac3-4718-881a-960f35662449",
+    "title": "Staff Data Engineer",
+    "company": "Solace Cloud",
+    "role_type": "data",
+    "seniority": "staff",
+    "description": "Solace Cloud is hiring a staff-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Python, Data Modeling, SQL, PostgreSQL, Statistics, BigQuery. Nice to have: Google Cloud Platform, Git, Prefect.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "data_modeling",
+          "name": "Data Modeling",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "sql",
+          "name": "SQL",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "postgresql",
+          "name": "PostgreSQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "bigquery",
+          "name": "BigQuery",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "git",
+          "name": "Git",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "prefect",
+          "name": "Prefect",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/22",
+    "posted_at": "2026-07-09T13:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190419Z"
+  },
+  {
+    "id": "4a344092-cff9-4e22-a1c0-caaaf07ed128",
+    "title": "Principal Data Engineer",
+    "company": "Northstar AI",
+    "role_type": "data",
+    "seniority": "staff",
+    "description": "Northstar AI is hiring a staff-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Data Pipeline Design, SQL, Spark, Airflow, PostgreSQL, Statistics. Nice to have: Git, Google Cloud Platform, Azure.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "data_pipelines",
+          "name": "Data Pipeline Design",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "sql",
+          "name": "SQL",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "spark",
+          "name": "Spark",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "airflow",
+          "name": "Airflow",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "postgresql",
+          "name": "PostgreSQL",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "git",
+          "name": "Git",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "azure",
+          "name": "Azure",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/23",
+    "posted_at": "2026-07-04T11:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190436Z"
+  },
+  {
+    "id": "0730be0e-0a14-4a9d-9fcd-0f94a27e2d38",
+    "title": "Staff Data Engineer",
+    "company": "Vertex Analytics",
+    "role_type": "data",
+    "seniority": "staff",
+    "description": "Vertex Analytics is hiring a staff-level data engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Airflow, SQL, Python, dbt, BigQuery, Spark. Nice to have: Google Cloud Platform, AWS, MongoDB.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "airflow",
+          "name": "Airflow",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "sql",
+          "name": "SQL",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "dbt",
+          "name": "dbt",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "bigquery",
+          "name": "BigQuery",
+          "category": "database"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "spark",
+          "name": "Spark",
+          "category": "tool"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "aws",
+          "name": "AWS",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "mongodb",
+          "name": "MongoDB",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "New York, NY",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/24",
+    "posted_at": "2026-07-23T18:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190453Z"
+  },
+  {
+    "id": "6733fe50-21e4-4fe1-b281-fc11332ad6cd",
+    "title": "Junior AI Engineer",
+    "company": "Fernwood Technologies",
+    "role_type": "ai_engineering",
+    "seniority": "junior",
+    "description": "Fernwood Technologies is hiring a junior-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Statistics, Machine Learning, FastAPI. Nice to have: CI/CD, AWS.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "machine_learning",
+          "name": "Machine Learning",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "ci_cd",
+          "name": "CI/CD",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "aws",
+          "name": "AWS",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Austin, TX",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/25",
+    "posted_at": "2026-08-06T12:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190480Z"
+  },
+  {
+    "id": "c5b43bd4-83c5-47f7-a404-3bdc15534814",
+    "title": "Associate Machine Learning Engineer",
+    "company": "Cobalt Works",
+    "role_type": "ai_engineering",
+    "seniority": "junior",
+    "description": "Cobalt Works is hiring a junior-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: PyTorch, TensorFlow, Statistics. Nice to have: Redis, Kubernetes.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "pytorch",
+          "name": "PyTorch",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "tensorflow",
+          "name": "TensorFlow",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 1
+      },
+      {
+        "skill": {
+          "id": "redis",
+          "name": "Redis",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "kubernetes",
+          "name": "Kubernetes",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/26",
+    "posted_at": "2026-07-05T12:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190494Z"
+  },
+  {
+    "id": "1457e8c1-78b5-4380-bf63-a15fd785d2f3",
+    "title": "Associate Machine Learning Engineer",
+    "company": "Vertex Analytics",
+    "role_type": "ai_engineering",
+    "seniority": "junior",
+    "description": "Vertex Analytics is hiring a junior-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Machine Learning, Python, Statistics. Nice to have: MLOps, Redis.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "machine_learning",
+          "name": "Machine Learning",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 0
+      },
+      {
+        "skill": {
+          "id": "mlops",
+          "name": "MLOps",
+          "category": "concept"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "redis",
+          "name": "Redis",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/27",
+    "posted_at": "2026-08-06T00:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190507Z"
+  },
+  {
+    "id": "c0b38a24-a639-432f-b5a8-94ee7a1cd35f",
+    "title": "Machine Learning Engineer",
+    "company": "Vertex Analytics",
+    "role_type": "ai_engineering",
+    "seniority": "mid",
+    "description": "Vertex Analytics is hiring a mid-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: FastAPI, Python, Statistics, LLM Engineering. Nice to have: Docker, CI/CD.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "llm_engineering",
+          "name": "LLM Engineering",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "docker",
+          "name": "Docker",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "ci_cd",
+          "name": "CI/CD",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Chicago, IL",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/28",
+    "posted_at": "2026-07-10T16:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190522Z"
+  },
+  {
+    "id": "41c73568-df36-4093-a14e-cba4dd2d1efd",
+    "title": "Machine Learning Engineer",
+    "company": "Northstar AI",
+    "role_type": "ai_engineering",
+    "seniority": "mid",
+    "description": "Northstar AI is hiring a mid-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: TensorFlow, Python, FastAPI, LLM Engineering. Nice to have: AWS, Elasticsearch.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "tensorflow",
+          "name": "TensorFlow",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "llm_engineering",
+          "name": "LLM Engineering",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "aws",
+          "name": "AWS",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "elasticsearch",
+          "name": "Elasticsearch",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Denver, CO",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/29",
+    "posted_at": "2026-08-08T09:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190537Z"
+  },
+  {
+    "id": "b227ca05-be70-4fa3-8e43-fa1d65b26bc5",
+    "title": "AI Engineer",
+    "company": "Lumen Data Co.",
+    "role_type": "ai_engineering",
+    "seniority": "mid",
+    "description": "Lumen Data Co. is hiring a mid-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: TensorFlow, LangChain, LLM Engineering, PyTorch. Nice to have: Docker, MLOps.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "tensorflow",
+          "name": "TensorFlow",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "langchain",
+          "name": "LangChain",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "llm_engineering",
+          "name": "LLM Engineering",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "pytorch",
+          "name": "PyTorch",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 2
+      },
+      {
+        "skill": {
+          "id": "docker",
+          "name": "Docker",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "mlops",
+          "name": "MLOps",
+          "category": "concept"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Remote",
+    "remote": true,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/30",
+    "posted_at": "2026-07-24T07:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190552Z"
+  },
+  {
+    "id": "50982ebd-adc7-4433-8133-2ff0f42a26f9",
+    "title": "Senior AI Engineer",
+    "company": "Cobalt Works",
+    "role_type": "ai_engineering",
+    "seniority": "senior",
+    "description": "Cobalt Works is hiring a senior-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: LLM Engineering, Python, FastAPI, LangChain, PyTorch. Nice to have: Kubernetes, Git, Elasticsearch.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "llm_engineering",
+          "name": "LLM Engineering",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 5
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 5
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 5
+      },
+      {
+        "skill": {
+          "id": "langchain",
+          "name": "LangChain",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 5
+      },
+      {
+        "skill": {
+          "id": "pytorch",
+          "name": "PyTorch",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 5
+      },
+      {
+        "skill": {
+          "id": "kubernetes",
+          "name": "Kubernetes",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "git",
+          "name": "Git",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "elasticsearch",
+          "name": "Elasticsearch",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Boston, MA",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/31",
+    "posted_at": "2026-07-31T13:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190569Z"
+  },
+  {
+    "id": "eb1d45bf-98b2-4ca9-a5b0-2361689bd6da",
+    "title": "Senior AI Engineer",
+    "company": "Vertex Analytics",
+    "role_type": "ai_engineering",
+    "seniority": "senior",
+    "description": "Vertex Analytics is hiring a senior-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: LangChain, LLM Engineering, TensorFlow, Statistics, Python. Nice to have: Redis, Elasticsearch, MLOps.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "langchain",
+          "name": "LangChain",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "llm_engineering",
+          "name": "LLM Engineering",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "tensorflow",
+          "name": "TensorFlow",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "redis",
+          "name": "Redis",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "elasticsearch",
+          "name": "Elasticsearch",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "mlops",
+          "name": "MLOps",
+          "category": "concept"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Chicago, IL",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/32",
+    "posted_at": "2026-07-24T20:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190589Z"
+  },
+  {
+    "id": "cf6db142-9aca-4db5-a071-ecf6720a53ac",
+    "title": "Senior AI Engineer",
+    "company": "Anchorage Labs",
+    "role_type": "ai_engineering",
+    "seniority": "senior",
+    "description": "Anchorage Labs is hiring a senior-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Machine Learning, TensorFlow, FastAPI, Statistics, Python. Nice to have: Google Cloud Platform, MLOps, Elasticsearch.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "machine_learning",
+          "name": "Machine Learning",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "tensorflow",
+          "name": "TensorFlow",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 6
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "mlops",
+          "name": "MLOps",
+          "category": "concept"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "elasticsearch",
+          "name": "Elasticsearch",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Seattle, WA",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/33",
+    "posted_at": "2026-07-07T04:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190606Z"
+  },
+  {
+    "id": "43969c92-7998-4563-8b36-bde24a07764b",
+    "title": "Staff AI Engineer",
+    "company": "Lumen Data Co.",
+    "role_type": "ai_engineering",
+    "seniority": "staff",
+    "description": "Lumen Data Co. is hiring a staff-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Python, LLM Engineering, FastAPI, Machine Learning, Natural Language Processing, PyTorch. Nice to have: Elasticsearch, MLOps, Google Cloud Platform.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "llm_engineering",
+          "name": "LLM Engineering",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "machine_learning",
+          "name": "Machine Learning",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "nlp",
+          "name": "Natural Language Processing",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "pytorch",
+          "name": "PyTorch",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 9
+      },
+      {
+        "skill": {
+          "id": "elasticsearch",
+          "name": "Elasticsearch",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "mlops",
+          "name": "MLOps",
+          "category": "concept"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "gcp",
+          "name": "Google Cloud Platform",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Chicago, IL",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/34",
+    "posted_at": "2026-07-24T23:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190651Z"
+  },
+  {
+    "id": "dd4167cc-3def-4fe5-bcf6-f2495293efcb",
+    "title": "Staff AI Engineer",
+    "company": "Brightloop",
+    "role_type": "ai_engineering",
+    "seniority": "staff",
+    "description": "Brightloop is hiring a staff-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Machine Learning, FastAPI, Natural Language Processing, LangChain, TensorFlow, LLM Engineering. Nice to have: Redis, CI/CD, Docker.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "machine_learning",
+          "name": "Machine Learning",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "nlp",
+          "name": "Natural Language Processing",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "langchain",
+          "name": "LangChain",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "tensorflow",
+          "name": "TensorFlow",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "llm_engineering",
+          "name": "LLM Engineering",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 7
+      },
+      {
+        "skill": {
+          "id": "redis",
+          "name": "Redis",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "ci_cd",
+          "name": "CI/CD",
+          "category": "tool"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "docker",
+          "name": "Docker",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Seattle, WA",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/35",
+    "posted_at": "2026-07-01T21:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190668Z"
+  },
+  {
+    "id": "629a0058-f768-4571-9348-8d45c617abe5",
+    "title": "Principal Machine Learning Engineer",
+    "company": "Cobalt Works",
+    "role_type": "ai_engineering",
+    "seniority": "staff",
+    "description": "Cobalt Works is hiring a staff-level AI/ML engineering professional to join our platform team. You will design, build, and operate production systems, working closely with cross-functional stakeholders. Required: Machine Learning, LLM Engineering, FastAPI, Python, TensorFlow, Statistics. Nice to have: Kubernetes, MLOps, Elasticsearch.",
+    "skill_requirements": [
+      {
+        "skill": {
+          "id": "machine_learning",
+          "name": "Machine Learning",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "llm_engineering",
+          "name": "LLM Engineering",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "fastapi",
+          "name": "FastAPI",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "python",
+          "name": "Python",
+          "category": "language"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "tensorflow",
+          "name": "TensorFlow",
+          "category": "framework"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "statistics",
+          "name": "Statistics",
+          "category": "concept"
+        },
+        "importance": "must_have",
+        "min_years_experience": 8
+      },
+      {
+        "skill": {
+          "id": "kubernetes",
+          "name": "Kubernetes",
+          "category": "cloud"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "mlops",
+          "name": "MLOps",
+          "category": "concept"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      },
+      {
+        "skill": {
+          "id": "elasticsearch",
+          "name": "Elasticsearch",
+          "category": "database"
+        },
+        "importance": "nice_to_have",
+        "min_years_experience": null
+      }
+    ],
+    "location": "Denver, CO",
+    "remote": false,
+    "source": "mock",
+    "source_url": "https://careervector.local/mock-postings/36",
+    "posted_at": "2026-08-01T04:16:06.189923Z",
+    "ingested_at": "2026-08-14T20:16:06.190685Z"
+  }
+]

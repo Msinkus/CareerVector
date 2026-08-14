@@ -1,6 +1,7 @@
 from datetime import UTC, datetime
 from uuid import UUID, uuid4
 
+from sqlalchemy import DateTime
 from sqlalchemy import Enum as SAEnum
 from sqlalchemy import Float, ForeignKey, Text
 from sqlalchemy.dialects.postgresql import UUID as PG_UUID
@@ -32,8 +33,8 @@ class VacancyORM(Base):
     remote: Mapped[bool] = mapped_column(default=False)
     source: Mapped[str] = mapped_column(nullable=False)
     source_url: Mapped[str | None] = mapped_column(nullable=True)
-    posted_at: Mapped[datetime] = mapped_column(nullable=False)
-    ingested_at: Mapped[datetime] = mapped_column(default=lambda: datetime.now(UTC))
+    posted_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), nullable=False)
+    ingested_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(UTC))
 
     skill_requirements: Mapped[list["VacancySkillRequirementORM"]] = relationship(
         back_populates="vacancy", cascade="all, delete-orphan"
@@ -65,7 +66,7 @@ class CandidateORM(Base):
     total_years_experience: Mapped[float | None] = mapped_column(Float, nullable=True)
     target_role_type: Mapped[RoleType | None] = mapped_column(SAEnum(RoleType), nullable=True)
     raw_resume_text: Mapped[str | None] = mapped_column(Text, nullable=True)
-    created_at: Mapped[datetime] = mapped_column(default=lambda: datetime.now(UTC))
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(UTC))
 
     skills: Mapped[list["CandidateSkillORM"]] = relationship(
         back_populates="candidate", cascade="all, delete-orphan"
