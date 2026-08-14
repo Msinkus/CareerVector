@@ -10,7 +10,7 @@ Phased, incremental build plan. Check items off as completed. See `CLAUDE.md` fo
 - [x] Build mock vacancy generator producing realistic Backend/Data/AI Engineering postings (`data/mock/vacancies.json`, `scripts/seed_mock_data.py`)
 - [x] Implement abstract ingestion source interface (`ingestion/sources/base.py`) + `mock_source.py` implementation
 - [x] Implement Prefect flow: ingest → dedup → clean → validate → persist (Postgres)
-- [ ] Generate embeddings for vacancies and persist to Qdrant
+- [x] Generate embeddings for vacancies and persist to Qdrant
 - [x] Unit tests for dedup/clean/validate pipeline stages
 
 ## Phase 2 — Candidate Onboarding & Parsing

@@ -11,6 +11,8 @@ from prefect import flow, task
 from careervector.domain.vacancies.models import Vacancy
 from careervector.infra.db.repositories.vacancy_repository import upsert_vacancies
 from careervector.infra.db.session import async_session_factory
+from careervector.infra.embeddings.model import get_embedding_model
+from careervector.infra.vector_store.vacancy_index import index_vacancies
 from careervector.ingestion.pipelines.clean import clean_vacancy
 from careervector.ingestion.pipelines.dedup import dedup_vacancies
 from careervector.ingestion.pipelines.validate import VacancyValidationError, validate_vacancy
@@ -51,6 +53,11 @@ async def persist(vacancies: list[Vacancy]) -> None:
         await upsert_vacancies(vacancies, session)
 
 
+@task
+async def embed(vacancies: list[Vacancy]) -> None:
+    await index_vacancies(vacancies, get_embedding_model())
+
+
 @flow(name="vacancy-ingestion")
 async def vacancy_ingestion_flow(source: VacancySource | None = None) -> int:
     source = source or MockVacancySource()
@@ -59,6 +66,7 @@ async def vacancy_ingestion_flow(source: VacancySource | None = None) -> int:
     cleaned = clean(deduped)
     valid = validate(cleaned)
     await persist(valid)
+    await embed(valid)
     return len(valid)
 
 
