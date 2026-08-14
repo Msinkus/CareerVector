@@ -23,14 +23,14 @@ Phased, incremental build plan. Check items off as completed. See `CLAUDE.md` fo
 
 ## Phase 3 — Hybrid Matching & Skill Gap Engine
 
-- [ ] Dense retrieval via Qdrant (candidate ↔ vacancy embeddings)
-- [ ] Sparse (BM25) retrieval component
-- [ ] Reciprocal Rank Fusion (RRF) combining dense + sparse results
-- [ ] Cross-encoder reranking stage on top-K fused results
-- [ ] Deterministic skill gap set-difference logic (`domain/skills/gap_analysis.py`) — must-have vs. nice-to-have, no LLM calls
-- [ ] `POST /api/v1/matching/match` endpoint
-- [ ] `POST /api/v1/matching/gap-analysis` endpoint
-- [ ] Retrieval accuracy tests against fixture data
+- [x] Dense retrieval via Qdrant (candidate ↔ vacancy embeddings)
+- [x] Sparse (BM25) retrieval component
+- [x] Reciprocal Rank Fusion (RRF) combining dense + sparse results
+- [x] Cross-encoder reranking stage on top-K fused results
+- [x] Deterministic skill gap set-difference logic (`domain/skills/gap_analysis.py`) — must-have vs. nice-to-have, no LLM calls
+- [x] `POST /api/v1/matching/match` endpoint
+- [x] `POST /api/v1/matching/gap-analysis` endpoint
+- [x] Retrieval accuracy tests against fixture data
 
 ## Phase 4 — Agentic Copilot & Roadmap Synthesis
 
