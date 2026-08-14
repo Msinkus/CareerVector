@@ -34,13 +34,13 @@ Phased, incremental build plan. Check items off as completed. See `CLAUDE.md` fo
 
 ## Phase 4 — Agentic Copilot & Roadmap Synthesis
 
-- [ ] LangGraph graph definition (`agents/graph.py`) wiring parser → gap-analyst → roadmap-synthesizer nodes
-- [ ] Parser agent node (structured extraction, reuses Phase 2 parsing where possible)
-- [ ] Gap-analyst agent node (semantic skill-equivalence judgment on top of the deterministic diff)
-- [ ] Roadmap-synthesizer agent node — extended output schema including: prioritized learning roadmap, tailored resume bullets, interview prep questions
-- [ ] Prompt templates in `agents/prompts/`
-- [ ] `POST /api/v1/copilot/roadmap` endpoint (non-streaming first)
-- [ ] Agent-level unit tests + one full-graph integration test
+- [x] LangGraph graph definition (`agents/graph.py`) wiring parser → gap-analyst → roadmap-synthesizer nodes
+- [x] Parser agent node (structured extraction, reuses Phase 2 parsing where possible)
+- [x] Gap-analyst agent node (semantic skill-equivalence judgment on top of the deterministic diff)
+- [x] Roadmap-synthesizer agent node — extended output schema including: prioritized learning roadmap, tailored resume bullets, interview prep questions
+- [x] Prompt templates in `agents/prompts/`
+- [x] `POST /api/v1/copilot/roadmap` endpoint (non-streaming first)
+- [x] Agent-level unit tests + one full-graph integration test (full-graph test lives under `tests/unit/agents/` — it uses a fake LLM and touches no real infra, so it doesn't fit the `integration` marker's documented meaning; see PROGRESS.md session 5 for the reasoning)
 
 ## Phase 5 — Evaluation Framework
 
