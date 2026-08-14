@@ -15,11 +15,11 @@ Phased, incremental build plan. Check items off as completed. See `CLAUDE.md` fo
 
 ## Phase 2 — Candidate Onboarding & Parsing
 
-- [ ] `POST /api/v1/candidates` endpoint accepting resume/markdown/text upload
-- [ ] LLM-assisted parser (`parsing/resume_parser.py`) extracting structured candidate profile via the LLM provider abstraction with `response_model` structured output
-- [ ] Candidate persistence: Postgres (structured) + Qdrant (profile embedding)
-- [ ] Sample resume fixtures (varied formats) in `tests/fixtures/resumes/`
-- [ ] Unit + integration tests for the parsing pipeline
+- [x] `POST /api/v1/candidates` endpoint accepting resume/markdown/text upload
+- [x] LLM-assisted parser (`parsing/resume_parser.py`) extracting structured candidate profile via the LLM provider abstraction with `response_model` structured output
+- [x] Candidate persistence: Postgres (structured) + Qdrant (profile embedding)
+- [x] Sample resume fixtures (varied formats) in `tests/fixtures/resumes/`
+- [x] Unit + integration tests for the parsing pipeline
 
 ## Phase 3 — Hybrid Matching & Skill Gap Engine
 
