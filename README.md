@@ -76,7 +76,7 @@ A sophisticated user can already paste a resume and a job description into an LL
 | Agent orchestration | LangGraph | Explicit, inspectable multi-agent state graph |
 | Data pipeline orchestration | Prefect | Orchestrates ingest → dedup → clean → validate, decoupled from agent logic |
 | Background jobs / watchdog | Celery + Redis (beat scheduling) | Lightweight periodic polling/diffing/alerting — no Temporal, avoids a second stateful cluster for what is fundamentally scheduled polling |
-| LLM provider | Anthropic Claude (`claude-sonnet-5` default) via provider abstraction | Structured output support, 1M context, prompt caching, tool-use API fits LangGraph directly |
+| LLM provider | DeepSeek (`deepseek-chat` default) via provider abstraction; Anthropic Claude supported as a swappable alternative | Cheap per-token cost for a self-funded portfolio build; the abstraction keeps Claude's structured-output/tool-use strengths one config change away |
 | Evals | Ragas | Faithfulness / context precision / answer relevance as first-class scorers |
 | Streaming | SSE (FastAPI `StreamingResponse`) | Token-by-token copilot output, simplest tool for one-directional streaming |
 | Resilience | slowapi/Redis rate limiting, structlog, Prometheus client | `/healthz`, `/metrics`, structured logs |

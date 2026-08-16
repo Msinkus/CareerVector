@@ -1,4 +1,5 @@
 from functools import lru_cache
+from typing import Literal
 
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
@@ -19,8 +20,14 @@ class Settings(BaseSettings):
 
     redis_url: str = "redis://localhost:6379/0"
 
+    llm_provider: Literal["deepseek", "anthropic"] = "deepseek"
+
     anthropic_api_key: str = ""
-    llm_default_model: str = "claude-sonnet-5"
+    anthropic_default_model: str = "claude-sonnet-5"
+
+    deepseek_api_key: str = ""
+    deepseek_base_url: str = "https://api.deepseek.com"
+    deepseek_default_model: str = "deepseek-chat"
 
     embedding_model_name: str = "BAAI/bge-small-en-v1.5"
     reranker_model_name: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"

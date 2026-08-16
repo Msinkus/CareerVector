@@ -21,7 +21,7 @@ Do not swap any of these without discussing it first — each was chosen deliber
 | Agent orchestration | LangGraph | Explicit, inspectable multi-agent state graph |
 | Data pipeline orchestration | Prefect | Ingest → dedup → clean → validate, decoupled from agents |
 | Background jobs | Celery + Redis beat | NOT Temporal — lighter footprint for scheduled polling |
-| LLM provider | Anthropic Claude, default `claude-sonnet-5` | Structured outputs, 1M context, prompt caching, tool-use fits LangGraph |
+| LLM provider | DeepSeek (OpenAI-compatible API), default `deepseek-chat`; Anthropic Claude supported as a swappable alternative via `LLMProvider` (`LLM_PROVIDER=anthropic`) | DeepSeek is far cheaper per token, which matters since this is a self-funded portfolio build; the existing `LLMProvider` abstraction made the swap a config change, not a rewrite, so Claude stays available |
 | Evals | Ragas | Faithfulness, context precision, answer relevance |
 | Streaming | SSE (`StreamingResponse`) | Simplest tool for one-directional token streaming |
 | Packaging | uv | Fast, modern dependency management |
@@ -73,7 +73,7 @@ careervector/
 
 ## LLM Provider Abstraction
 
-All LLM calls go through `infra/llm/client.py`, never direct SDK calls from `agents/` or `parsing/`. The interface exposes at minimum:
+The `LLMProvider` protocol lives in `infra/llm/client.py`; all LLM calls go through it, never direct SDK/HTTP calls from `agents/` or `parsing/`. The interface exposes at minimum:
 
 ```python
 class LLMProvider(Protocol):
@@ -81,7 +81,7 @@ class LLMProvider(Protocol):
     async def stream(self, *, system: str, messages: list[Message]) -> AsyncIterator[str]: ...
 ```
 
-Default implementation wraps the Anthropic SDK, default model `claude-sonnet-5`. To swap models (e.g. `claude-opus-5` for a showcase demo) or providers, implement `LLMProvider` again and change the binding in `config.py` — no call sites should change.
+Concrete implementations live one-per-file beside `client.py`: `deepseek_provider.py` (`DeepSeekLLMProvider`, default, via `httpx` against DeepSeek's OpenAI-compatible `/chat/completions` endpoint — no separate OpenAI SDK dependency needed) and `anthropic_provider.py` (`AnthropicLLMProvider`, alternative, via the Anthropic SDK). `client.py`'s `get_llm_provider()` factory picks between them based on `Settings.llm_provider` (`LLM_PROVIDER` env var, `"deepseek"` or `"anthropic"`). Both implement structured output the same way conceptually — a single forced tool/function call matching the `response_model`'s JSON schema — just via each provider's own tool-calling wire format. To swap models within a provider (e.g. `claude-opus-5` for a showcase demo), change `anthropic_default_model`/`deepseek_default_model` in `config.py`. To add a new provider, implement `LLMProvider` again in its own file and add a branch to the factory — no call sites should change.
 
 ## Testing Conventions
 
